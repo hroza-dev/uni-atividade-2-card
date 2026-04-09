@@ -3,5 +3,3 @@
 
 -------------------------------------------------------
 Page: https://hroza-dev.github.io/uni-atividade-2-card/
-
-Utilizado para clip-path: https://bennettfeely.com/clippy/
